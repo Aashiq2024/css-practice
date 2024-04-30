@@ -1,0 +1,20 @@
+.para:hover{
+    color: yellow;
+}
+.head:hover{
+ color: blue; }
+a{
+    text-decoration: none;
+}
+a:link{
+    color: red;
+}
+.about:hover{
+    background-color: aqua;
+}
+.about:hover .head{
+    color: blue;
+}
+.about:hover .para{
+    color: yellow;
+}
